@@ -10,13 +10,7 @@ VoxSphere is a comprehensive video calling application leveraging WebRTC technol
 - Agora RTC (Real-Time Communication) integration
 - Agora RTM (Real-Time Messaging) integration
 
-## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Agora RTC SDK
-- Agora RTM SDK
 
 ![image](https://github.com/user-attachments/assets/68d5974f-938e-40e3-a9a2-91b93488e621)
 
