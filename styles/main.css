@@ -132,7 +132,7 @@ a {
 }
 
 #create__room__btn:hover {
-  box-shadow: 0 0 10px #97aaf9; 
+  background-color: #845695;
 }
 
 .nav--list {
